@@ -87,7 +87,7 @@
 
    Geert是Roel最早的博士生之一，也是课题组最早开展有源器件研究的教授，在分布式反馈激光器（DFB Laser）方面做过很多工作。由于Geert博士毕业后很长段时间在工业界（IMEC）从事有源器件的工作，所以激光器自始至终都是他工作的聚焦点。目前几个学生基本都在做DFB Laser和microdisk lasers的工作，这部分工作的学生也与Dries来联合指导，另外一个工作是大连理工的物理与光电工程学院的赵明山老师在这边所做的聚合物光电器件工作，目前还有项目基金和博士后在做。值得一提的是Geert有非常丰富的关于高速测量的经验，所以实验室测量间关于High Speed一块主要是由他负责的。
    
-.. sidebar:: I have many students!
+.. sidebar:: Mid-IR is Awsome!
    
 	.. image:: gunther.jpg
 		:width: 120px
@@ -96,7 +96,7 @@
 
    Gunther 是我们组目前最年轻的教授，也曾是根特大学最年轻的教授之一，算是硅基光电世界上年轻辈学者里面的佼佼者。他的博士工作主要包括两方面，一个基于380nm厚硅层SOI的Grating Coupler设计，另外一方面就是InP有源器件与SOI的BCB键合，两方面工作都很出色。与Roel一样，目前硅基光电的所有领域都有所涉及，从无源器件的Grating Coupler，有源的激光器和探测器等等，目前也在开始进行硅基光电系统的设计。目前的Roel的大部分学生Gunther都有联合指导。Gunther的工作重心目前有两块，一块是III-V有源器件在硅基上的集成，这部分我们的主要方式是利用一种叫BCB的聚合物来键合，通俗来说就是用一种超薄的胶水来将III-V材料粘到硅基上面去。另外一个是中红外硅基光电子学的研究，这个工作最初由Richard Soref在2010年Nature Photonics提出来，然后Gunther在那一年申请到欧盟的一个大项目ERC Starting Grant来开展了这个领域很多原创工作，包括中红外有源器件的集成，硅基非线性光学和中红外量子点器件。
    
-.. sidebar:: Cleanroom is Awesome!
+.. sidebar:: Photonics is versatile!
    
 	.. image:: dries.jpg
 		:width: 120px
