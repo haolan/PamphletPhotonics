@@ -125,4 +125,4 @@
    Dries是咱们另外一位研究方向很广的教授，他是Gunther博士期间的联合导师，所以研究方向和风格与Roel和Gunther很类似，既有从事硅基有源器件的集成，量子点的硅基集成还有利用硅基平台进行Photonic力学系统的研究。他是咱们组最早开展硅基有源集成的教授，有源的集成器件需要开展大量的超净间工艺，所以他也是咱们组超净间部分的负责人。有源集成部分Dries也有与IMEC合作开展直接在SOI上外延生长III-V然后加工器件，根特这边主要负责器件的设计和生长之后后续的加工与表征，这部分工作与课题组大部分人利用的键合集成方式有所不同。Dries的研究中有很fancy的idea，例如有几个博士一直在开展的Silicon optomechanics的研究，这方面的研究在science和Nature子期刊发了几篇不错的顶级论文。
    
 .. _个人页面: http://photonics.intec.ugent.be/contact/people.asp?ID=1
-.. _Luceda:  <http://www.lucedaphotonics.com/
+.. _Luceda:  http://www.lucedaphotonics.com/
