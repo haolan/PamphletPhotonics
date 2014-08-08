@@ -10,7 +10,7 @@ Contents:
    :maxdepth: 2
    
    intro/index
-
+   bleaving/index
 
 Indices and tables
 ==================
