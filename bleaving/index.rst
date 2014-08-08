@@ -14,14 +14,13 @@
 
 学校宿舍
 ~~~~~~~~~
-根特因为近年国际学生持续增加，新建了一批\ 学校宿舍_\，其硬件条件在根特全体房源中质量中上，价格也较为公道，值得留意。根特学生宿舍提供给硕士的一般是studio而博士为apparement，相关价格信息可以在\ 这里_\和\ 这里_\找到。但是因为申请时间较晚的原因也可能被分给Kamer。住在宿舍一来可以认识到很多同来的中国学生迅速融入当地生活，二来与国际学生住在一起可以很容易地认识许多新朋友增广视野，不失为一个好选择。
 
-要想住在宿舍一般可以直接根据网上提供的\ 硕士_\和\ 博士_\申请流程操作即可联系，遇到问题的时候请联系我们实验室秘书。
+根特因为近年国际学生持续增加，新建了一批\ 学校宿舍_\，其硬件条件在根特全体房源中质量中上，价格也较为公道，值得留意。根特学生宿舍提供给硕士的一般是studio而博士为apparement，但是因为申请时间较晚的原因也可能被分给Kamer，相关的价格信息和申请流程分别可以在\ 硕士_\和\ 博士_\找到。住在宿舍一来可以认识到很多同来的中国学生迅速融入当地生活，二来与国际学生住在一起可以很容易地认识许多新朋友增广视野，不失为一个好选择。
+
+要想住在宿舍一般可以直接根据网上提供申请流程操作即可，遇到问题的时候请联系我们实验室秘书。
 
 .. _学校宿舍: https://www.ugent.be/en/facilities/housing
-.. _这里: https://www.ugent.be/en/facilities/housing/termsotherdegree1415.pdf
-.. _这里: https://www.ugent.be/en/facilities/housing/termsphd1415.pdf/at_download/file
-.. _硕士：https://www.ugent.be/en/facilities/housing/degree.htm
+.. _硕士: https://www.ugent.be/en/facilities/housing/degree.htm
 .. _博士: https://www.ugent.be/en/facilities/housing/phd.htm
 
 房源类型
