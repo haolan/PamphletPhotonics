@@ -154,7 +154,5 @@ Python
 MATLAB 
 ~~~~~~~~~~~~~~~~~
 
-\LaTeX\
+LaTeX
 ~~~~~~~~~~~~~~~~~
-
-:math:`\LaTeX`.
