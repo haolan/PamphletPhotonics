@@ -118,11 +118,11 @@ Woning
 .. image:: rail.png
 	:width: 750px
 	
-对留学生来说，乘坐比铁一般购买“十次票”，即RailPass或者GoPass 10，分别针对一般乘客和26岁以下青年乘客，价格约为50欧和80欧。使用十次票可以随意坐比利时国铁的火车从一个城市到另一个城市，不计转车次数，相比起单独购票，是非常便宜的。对于实验室的博士而言，如果你不住在根特而每天用火车往返实验室是给报销火车票的，因为这个政策，实验室可能有近三分之一并不住在根特而每日通勤。更加详细的信息可以在\ 比铁票务_\相关页面上查询。
+对留学生来说，乘坐比铁一般购买“十次票”，即RailPass或者GoPass 10，分别针对一般乘客和26岁以下青年乘客，价格约为50欧和80欧。除去机场还需要另付一个特别费用，使用十次票可以随意坐比利时国铁的火车从一个城市到另一个城市，不计转车次数，相比起单独购票，是非常便宜的。
 
-.. note:: 坐火车去机场除了如果使用GoPass或者RailPass还需要另付一个特别费用称为Diablo Fee，现时价格为5欧。
+此外对于实验室的博士而言，如果你不住在根特而每天用火车往返实验室是给报销火车票的，因为这个政策，实验室可能有近三分之一并不住在根特而每日通勤。更加详细的信息可以在\ 比铁票务_\相关页面上查询。
 	
-.. _比铁网站: http://www.belgianrail.be/en/Dfault.aspx
+.. _比铁网站: http://www.belgianrail.be/en/Dfault.aspx除非坐火车去机场还需要另付一个特别费用。
 .. _比铁票务: http://www.belgianrail.be/en/travel-tickets.aspx
 
 .. tip:: 对26岁以下学生来说除了有十次票也有\ 一次票_\。总而言之在大部分的时候比铁都有比普通单程/往返票更为合适的选择，提请大家事前多查询。
@@ -135,12 +135,31 @@ Woning
 
 .. _Cambio: http://www.eurostop.be/
 
-.. tip:: 国内驾照可以直接换取比利时驾照。需要提供驾照翻译件和原件在市政厅办理。需要注意的是此翻译员需获法院认可并加盖法院的章。换驾照唯一的限制是在来比前国内驾照已然生效。更多详细信息请到根特市政厅下dienst rijbewijze(=Department of Driving)咨询。
-
-                                                                                                                           
+.. tip:: 国内驾照可以直接换取比利时驾照。需要提供驾照翻译件和原件在市政厅办理。需要注意的是此翻译员需获法院认可并加盖法院的章。换驾照唯一的限制是在来比前国内驾照已然生效。更多详细信息请到根特市政厅dienst rijbewijze(=Department of Driving)咨询。
+                                                                                   
 
 比利时与邻近国家
 ~~~~~~~~~~~~~~~~~~
+
+比利时号称欧洲的心脏，所以去比利时邻近国家旅游是非常方便的。
+
+火车一直是编者最为喜欢的交通方式。从比利时出发有高速列车\ Thalys_\南接巴黎，北至阿姆斯特丹，东抵科隆。然后再转乘当地的高速列车如法国的TGV和德国的ICE，在六七个小时车程内可以覆盖半个德国和法国了。在滑雪季也会增开至法国阿尔卑斯山部分滑雪场的列车，非常方便。如果想去英国则要选择欧洲之星穿行海底隧道了。
+
+火车除乘坐舒适之外，在旅游的时候购买铁路通票，价格也是比较有竞争力的。作为留学生可以购买\ InterRail_\，则除了大部分高速列车需要补交预定费之外，绝大部分其他列车都是涵盖在内的，通过可以查询具体哪些车次需要预定可以的\ RailDude_\和查询火车时刻的德铁网站\ DeutschBahn_\在欧洲旅游漫游是非常舒适的。
+
+除了火车漫游之外，欧洲的廉价航空也是非常发达的。知名的如\ Ryanair_\ ,\ EasyJet_\或者较不知名的\ Wizz_\或者\ WOW_\都提供非常有竞争力的机票。编者相信大部分读者都非常熟悉各种搜索便宜机票的网站例如\ momondo_\和\ Skyscanner_\，需要提请注意的是有些廉价航空的票价与官网不符合甚至搜不到航班，有必要的时候需要根据此\ 廉价航空公司列表_\在对应网站上搜索。
+
+.. _Thalys: https://www.thalys.com/be/en/
+.. _InterRail: http://www.interrail.eu/
+.. _RailDude: http://www.raildude.com/cn/interrail-%E8%AE%A2%E5%BA%A7-%E4%B8%8E-%E5%B7%AE%E4%BB%B7%E8%B4%B9
+.. _Bahn: http://www.bahn.de/p_en/view/index.shtml
+.. _Ryanair: http://www.ryanair.com/en/
+.. _EasyJet: http://www.easyjet.com/en/
+.. _Wizz: http://wizzair.com
+.. _WOW: http://wowair.com/
+.. _momondo: http://www.momondo.com/
+.. _Skyscanner: http://www.skyscanner.net
+.. _廉价航空公司列表:http://en.wikipedia.org/wiki/List_of_low-cost_airlines
 
 
 衣
