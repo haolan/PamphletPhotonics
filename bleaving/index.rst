@@ -152,14 +152,14 @@ Woning
 .. _Thalys: https://www.thalys.com/be/en/
 .. _InterRail: http://www.interrail.eu/
 .. _RailDude: http://www.raildude.com/cn/interrail-%E8%AE%A2%E5%BA%A7-%E4%B8%8E-%E5%B7%AE%E4%BB%B7%E8%B4%B9
-.. _Bahn: http://www.bahn.de/p_en/view/index.shtml
+.. _DeutschBahn: http://www.bahn.de/p_en/view/index.shtml
 .. _Ryanair: http://www.ryanair.com/en/
 .. _EasyJet: http://www.easyjet.com/en/
 .. _Wizz: http://wizzair.com
 .. _WOW: http://wowair.com/
 .. _momondo: http://www.momondo.com/
 .. _Skyscanner: http://www.skyscanner.net
-.. _廉价航空公司列表:http://en.wikipedia.org/wiki/List_of_low-cost_airlines
+.. _廉价航空公司列表: http://en.wikipedia.org/wiki/List_of_low-cost_airlines
 
 
 衣
