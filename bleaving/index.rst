@@ -187,7 +187,7 @@ Woning
 
 .. sidebar:: Amazingly Good! Amazingly Expensive!
    
-	.. image:: michelin1.jpg
+	.. image:: michelin1.jpeg
 		:width: 120px
 
 .. topic:: Michelin Star
@@ -196,7 +196,7 @@ Woning
 
 .. sidebar:: 对我们有用的指南!
    
-	.. image:: michelin2.jpg
+	.. image:: michelin2.jpeg
 		:width: 120px
 
 .. topic:: Bib Gourmand
