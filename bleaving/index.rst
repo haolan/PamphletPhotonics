@@ -222,7 +222,7 @@ Vol-au-vent
 
 啤酒巧克力
 ~~~~~~~~~~~~~~~~~
-比利时啤酒是世界知名的。在此我想特别介绍一下修道院啤酒（Trappist Beer）。修道院啤酒顾名思义即由修士酿造的啤酒，在啤酒的领域中名气很大，评价也很高。统共十个品牌的修道院啤酒中比利时总共占六家，事实上三家仅仅仅仅在近一两年才加入，所以可以说修道院啤酒就就是比利时的其中一大特色，来到比利时是一定要多多品尝的。这六家比利时啤酒分别是
+比利时啤酒是世界知名的。在此我想特别介绍一下修道院啤酒（Trappist Beer）。修道院啤酒顾名思义即由修士酿造的啤酒，在啤酒的领域中名气很大，评价也很高。统共十个品牌的修道院啤酒中比利时总共占六家，事实上三家仅仅仅仅在近一两年才加入，所以基本可以说修道院啤酒就是比利时特产，来到比利时是一定要多多品尝的。这六家比利时啤酒分别是
 
 - \ Rochefort_\
 - \ Westmalle_\
@@ -231,13 +231,13 @@ Vol-au-vent
 - \ Orvay_\
 - \ Achel_\
 
-除了最知名的修道院啤酒之外，比利时还有各种各样的啤酒，比如香蕉啤酒，芒果啤酒，藜麦啤酒等等，如果有兴趣的可以到酒吧多多品尝。
+除了最知名的修道院啤酒之外，比利时酿酒作坊遍布全境，有各种各样口味的啤酒，比如香蕉啤酒，芒果啤酒，藜麦啤酒等等，如果有兴趣的可以多尝试一下。
 
-除了啤酒之外，比利时夹心巧克力（Belgian Praline）也是非常有名的。自从1912年被发明之后比利时巧克力一直被誉为世界顶级[#]_。我相信不用我介绍大家可能已经听过Godiva，Neuhaus和Leonidas等品牌，但是我在这更想介绍Neuhaus巧克力工厂店和独立巧克力店。
+除了啤酒之外，比利时夹心巧克力（Belgian Praline）也是非常有名的。自从1912年在比利时被发明之后，比利时一直以出产顶级巧克力而自豪[#]_。我相信不用我介绍大家可能已经听过Godiva，Neuhaus和Leonidas等品牌，但是我在这更想介绍Neuhaus巧克力工厂店和独立巧克力店。
 
 \ Neuhaus巧克力工厂店_\以可以随便试吃闻名，店内所有巧克力盒子都是打开的，可以随便拿随便吃。除了Neuhaus限量工艺或者特别的巧克力基本在店里都能找到试吃，实在是巧克力爱好者的第一站。而且在店内购买价格也十分低廉，如果有兴趣不妨采购一些回国赠送亲友。
 
-但是比利时巧克力世界闻名还有手工巧克力。手工巧克力一般指是由糕点师（pâtissier ）或是巧克力师（Chocolatier）手工制作而成的巧克力。一般均有独立的店铺，比如\ `Le Saint-Aulaye`_\，\ `Planet Chocolate`_\，\ Sasaki_\或者\ `La Dacquoise_\。值得一提的是Le Saint-Aulaye的Ryan Stevenson和La Dacquoise的Dmitiri Salmon，这两人都曾经代表比利时参加世界巧克力大师赛决赛（World Chocolate Masters Finals）如果有机会不妨去尝试一下。
+但是比利时巧克力世界闻名还有手工巧克力。手工巧克力一般指是由糕点师（pâtissier ）或是巧克力师（Chocolatier）手工制作而成的巧克力。一般均有独立的店铺，比如\ `Planet Chocolate`_\，\ Sasaki_\等。值得一提的是\ `Le Saint-Aulaye`_\的Ryan Stevenson和\ `La Dacquoise`_\的Dmitiri Salmon，这两人都曾经代表比利时参加世界巧克力大师赛决赛（World Chocolate Masters Finals）如果有机会不妨去尝试一下。
 
 .. _Rochefort: http://en.wikipedia.org/wiki/Rochefort_Brewery
 .. _Westmalle: http://en.wikipedia.org/wiki/Westmalle_Brewery
@@ -245,13 +245,16 @@ Vol-au-vent
 .. _Chimay: http://en.wikipedia.org/wiki/Chimay_Brewery
 .. _Orvay: http://en.wikipedia.org/wiki/Orval_Brewery
 .. _Achel: http://en.wikipedia.org/wiki/Achel_Brewery
+
 .. _Neuhaus巧克力工厂店: https://www.google.com/maps/preview?ie=UTF-8&fb=1&cid=9843689833181837381&q=Neuhaus+Vlezenbeek&ei=q4nwU4P7CqnM0QWL0YGYAQ&ved=0CJ8BEPwSMAs
-.. _Le Saint-Aulaye: http://saintaulaye.be/
+
 .. _Planet Chocolate: http://www.planetechocolat.be/
 .. _Sasaki: http://www.patisserie-sasaki.be/ 
+.. _Le Saint-Aulaye: http://saintaulaye.be/
 .. _La Dacquoise: http://www.la-dacquoise.be/
 
 .. [#] 虽然坊间一直批评比利时巧克力水平下降，因为代表世界巧克力最高水平的世界巧克力大师赛比利时仅在2005年获得优胜 
+
 
 中餐
 ~~~~~~~~~~~~~~~~~~~~
