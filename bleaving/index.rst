@@ -325,6 +325,7 @@ MATLAB
 大名鼎鼎的MATLAB想来我不用过多介绍。实验室里绝大部分的数值计算和数据处理都是用这个软件完成的。虽然我相信大部分人在国内都有使用MATLAB的经验，不过可能对MATLAB代码缺乏系统学习，所以在面对比较大型的仿真程序的时候不能游刃有余地处理。
 
 笔者建议如果有时间的不放首先完成这个\ 网络简明MATLAB教程_\，再辅以此\ MATLAB参考书_\，使用MATLAB的时候肯定会非常有自信。
+
 .. _网络简明MATLAB教程: http://www.matlab-cookbook.com/
 .. _MATLAB参考书: http://www.amazon.com/MATLAB-Guide-Desmond-J-Higham/dp/0898715784
 
