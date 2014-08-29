@@ -11,6 +11,8 @@ Contents:
    
    intro/index
    bleaving/index
+   arrival/index
+   study/index
 
 Indices and tables
 ==================
