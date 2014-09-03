@@ -93,7 +93,7 @@ UGentNet与VPN
 
 3. 在查房之后市政厅会再跟你联系让你到指定地点办理A类居留卡（Type A Residence Permit），这张居留卡允许你在一定的时间内停留在比利时，一般有效期为一年。办理需要提供的证件在市政厅的邮件中会说明。
 
-4. 在比利时连续居住五年后 [#]_ ，你就可以申请办理长期居留权（Long-term Residence Permit），如果市政厅批准之后，你可以获得D类居留卡（Type D Residence Permit）和一份纸质文件Appendix 7bis。纸质文件的有效期是无限的而居留卡的有效期是五年。因为纸质文件有效期无限，部分人也称状态为永久居留权（Permanent Residence Permit）。
+4. 在比利时连续居住五年后 [*]_ ，你就可以申请办理长期居留权（Long-term Residence Permit），如果市政厅批准之后，你可以获得D类居留卡（Type D Residence Permit）和一份纸质文件Appendix 7bis。纸质文件的有效期是无限的而居留卡的有效期是五年。因为纸质文件有效期无限，部分人也称状态为永久居留权（Permanent Residence Permit）。
 
 根据上文的介绍，一般来说留学生间称之为居留卡或ID卡的就是A类居留卡（Type A Residence Permit）。这个居留卡有下面一些特点
 
@@ -104,7 +104,7 @@ UGentNet与VPN
 
 此卡对留学生来说是比较重要的，所以请在办理完入学手续之后抓紧办理。
 
-.. [#] 一般的说法是，学生身份的五年并不计入在内，因为要求有一份稳定收入的工作。 
+.. [*] 一般的说法是，学生身份的五年并不计入在内，因为要求有一份稳定收入的工作。 
 
 
 银行卡和银联
