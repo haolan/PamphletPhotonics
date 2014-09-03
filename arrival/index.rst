@@ -64,7 +64,7 @@ UGentNet与VPN
 .. image:: win71.png
 	:width: 500px
 
-.. image:: win72.png
+.. image:: win72.PNG
 	:width: 500px
 	
 如果是使用苹果电脑的话，整个流程会相对简单不少。首先在系统设置下的网络设置中添加新的VPN，添加的时候选择Cisco VPN。之后按照下图所示的内容填入即可。值得一提的是，使用iOS的其他操作系统也可以按照同样的设置连接VPN。
