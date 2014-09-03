@@ -21,7 +21,7 @@
 之后如果选择坐火车请到机场底层的车站购票大厅买票，再下一层楼乘坐对应的火车即可。唯一需要提醒注意的是根特的主车站是Gent-Sint-Pieter Station，如无特殊原因，一般都选择坐到这个车站。具体如何查询车次和转车信息可以前一章节找到在此恕不赘述。到了根特之后建议直接打车前往住址，因为根特的公交没有报站服务，自己坐公交对初来者并不是一个非常好的选择。
 
 
-联系家人和同学
+手机及手机卡
 ------------------
 刚到比利时第一件事想必是给家里联系报平安。笔者推荐使用布鲁塞尔机场免费wifi通过即时通信软件完成。
 
@@ -41,11 +41,52 @@
 .. _Viking: https://mobilevikings.be/en/
 .. _Telenet: http://telenet.be/nl/gsm-abonnement/king
 
+学校注册
+----------------
+报了平安并把行李扔到住处之后，首先要做的是去学校办理注册手续。
+
+不管是硕士还是博士，第一站应该都是到光电实验室找秘书帮忙。光电实验室位于\ Technicum_\，Blok2的一楼。从Sint-Pietersnieuwstraat经过经过一片单车的停车场进门即可。注册的办理对于硕士来说几乎全部都是在\ `University Forum`_\（UFO），也就是Technicum旁边的大型玻璃建筑。而对博士来说，还有相当部分的手续是要在Directie Personeel en Organisatie（DPO）办理，DPO位于UFO北边一点的\ Rectoraat_\中一楼。
+
+此外有可能大家还会需要找学院院长签字，院长办公室位于系楼\ `Plateau Building`_\中，进门之后可以按悬挂的指南寻找。
+
+.. _Technicum: https://www.google.com/maps/place/Sint-Pietersnieuwstraat+41,+Site+Sint-Pietersnieuwstraat,+9000+Gent,+Belgium/@51.0460253,3.7269776,19z/data=!4m2!3m1!1s0x47c371500f8cce93:0x817cee8d48f63ab7
+.. _University Forum: https://www.google.com/maps/place/Ufo+-+Vakgroep+Archeologie/@51.0467952,3.7277957,19z/data=!4m2!3m1!1s0x0:0x7c81dcc92e6fffdc
+.. _Rectoraat: https://www.google.com/maps/@51.047173,3.7275114,19z
+.. _Plateau Building: https://www.google.com/maps/place/Rozier+9,+Site+Sint-Pietersnieuwstraat,+9000+Gent,+Belgium/@51.0456351,3.7250331,18z/data=!3m1!5s0x47c3715a95ef2ae5:0xcdca1f8ea6af298c!4m2!3m1!1s0x47c3715a95e87c4b:0x9245b4f50ffb86d
+
 UGentNet与VPN
 --------------
 
+顺利注册之后我们就可以用学校提供的UGentNet上网了，不过在上外网之前还有一点小工序要做，就是连接学校的VPN。此外如果住在学校宿舍通过网线上网是一定需要VPN的。
+
+这里仅给出一个VPN使用简介。如果通过无线请确保连上了UGentNet，如果是在宿舍通过网线也请确认网线连到了数字最小的网口端。此时打开浏览器确认是否能连上\ 服务台_\。如果可以的话，在\ VPN_\页面可以找到软件和设置文件。安装软件并导入配置文件连接即可。
+
+.. image:: win71.png
+	:width: 500px
+
+.. image:: win72.png
+	:width: 500px
+	
+如果是使用苹果电脑的话，整个流程会相对简单不少。首先在系统设置下的网络设置中添加新的VPN，添加的时候选择Cisco VPN。之后按照下图所示的内容填入即可。值得一提的是，使用iOS的其他操作系统也可以按照同样的设置连接VPN。
+
+.. image:: vpn1.png
+	:width: 500px
+
+.. image:: vpn2.png
+	:width: 500px
+	
+.. image:: vpn3.png
+	:width: 500px
+
+除了使用UGentNet配合VPN之外，eduroam相对来说更加简单，直接连接eduroam账号为@ugent.be的邮箱，密码是邮箱密码即可连接。不过eduroam连接的时候需要安装证书，如果对此在使用上可以会有些问题，如果碰到不能连接的情况可以使用VPN或者找\ 服务台_\寻求帮助。
+	
+.. _服务台: http://helpdesk.ugent.be/en/
+.. _VPN: http://helpdesk.ugent.be/vpn/en/akkoord.php
+
 比利时居留
 -----------------
+
+
 
 银行卡和银联服务
 -----------------
