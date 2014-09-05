@@ -13,6 +13,8 @@ Contents:
    bleaving/index
    arrival/index
    study/index
+   advanced/index
+   maintenance/index
    
 Indices and tables
 ==================
