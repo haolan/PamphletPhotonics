@@ -13,11 +13,6 @@ Contents:
    bleaving/index
    arrival/index
    study/index
-
-special acknowledgement to my colleagues
-
-.. image:: ocsper349.jpg
-	:width: 180px
    
 Indices and tables
 ==================
