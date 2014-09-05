@@ -1,6 +1,11 @@
 
 银行卡和银联
 -----------------
+
+:Author: Haolan Zhao
+:status: Finished
+:revision: First Revision 9/5/2014
+
 比利时常见的银行包括但不限于
 
 - \ ING_\

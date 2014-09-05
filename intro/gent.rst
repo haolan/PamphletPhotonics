@@ -1,9 +1,10 @@
-:Author: Haolan Zhao
-:status: Finished
-:revision: First Revision 9/5/2014
 
 根特(Gent)
 -----------
+
+:Author: Haolan Zhao
+:status: Finished
+:revision: First Revision 9/5/2014
 
 根特市位于弗兰德区的东弗兰德省同时也是省会。据\ 统计_\根特人口约为24万，现为比利时第三大城市 [#]_ 。因为其中有相当一部分是学生，根特也是一个大学城。根特通用语言是荷兰语。根特距离布鲁塞尔仅约四十公里，乘坐火车从布鲁塞尔南站出发只需约30分钟就可抵达根特圣彼得火车站。
 
