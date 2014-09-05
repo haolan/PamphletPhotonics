@@ -14,6 +14,11 @@ Contents:
    arrival/index
    study/index
 
+special acknowledgement to my colleagues
+
+.. image:: ocsper349.jpeg
+	:width: 180px
+   
 Indices and tables
 ==================
 
