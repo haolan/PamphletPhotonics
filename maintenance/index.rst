@@ -16,7 +16,7 @@
 .. _Read the Docs: https://readthedocs.org/
 
 
-下面将比较具体提供如何参与编辑内容。
+下面将简要如何参与编辑内容。
 
 1. 首先下载enthought Canopy的\ academic_\版本。你需要用学校的邮箱注册，比如@ugent.be。下载之后安装会弹出一个package manager，在package manager里面搜索sphinx并安装。
 
