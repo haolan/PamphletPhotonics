@@ -16,7 +16,7 @@
 .. _Read the Docs: https://readthedocs.org/
 
 
-下面将简要如何参与编辑内容。
+想参与编辑手册可以直接将想要添加或者修改的内容发到我邮箱（milkcarbon@gmail.com）。如果想要对手册进行大修或者对手册编写过程有一定的兴趣，也可以采用与笔者相同的办法
 
 1. 首先下载enthought Canopy的\ academic_\版本。你需要用学校的邮箱注册，比如@ugent.be。下载之后安装会弹出一个package manager，在package manager里面搜索sphinx并安装。
 
