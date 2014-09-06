@@ -6,6 +6,7 @@
 
 .. image:: ccbysa.png
     :width: 88px
+	:align: center
 	
 技术层面上，手册编写基于\ reStructuredText_\语言，HTML页面则由\ Sphinx_\产生。手册的原始内容寄放于\ GitHub_\而生成的HTML寄放在\ `Read the Docs`_\。
 
