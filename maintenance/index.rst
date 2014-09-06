@@ -18,7 +18,28 @@
 
 下面将比较具体提供如何参与编辑内容。
 
-reST与Sphinx
------------------
+1. 首先下载enthought Canopy的\ academic_\版本。你需要用学校的邮箱注册，比如@ugent.be。下载之后安装会弹出一个package manager，在package manager里面搜索sphinx并安装。
 
-reStructuredText（reST）与HTML一样，是一种标记语言。也就是说在纯文本之间加标记来展示文本细节的一种语言。举例而言，`` **黑体** ``就会出现**黑体**内容。
+2. 注册一个github账号，登入之后打开手册的\ 页面_\并点中右上角的fork。
+
+3. 下载github的\ 客户端_\，登入之后在界面左上角的加号点开，在clone分栏下找到PamphletPhotonics，会弹出一个窗口让你选择存放的路径。
+
+.. image:: ccbysa.png
+    :width: 500px
+
+4. 打开路径之后应该看到类似的一个文件夹，需要注意的是index.rst和conf.py两个文件，分别对应手册的主页和主要配置文件，如果对sphinx不太懂的话可以暂时只关注前者。文件夹中以下划线开头的可以暂时忽略，剩下的文件夹分别对应每一章的内容。
+	
+.. image:: folder.png
+    :width: 500px
+	
+5. 用一个文本编辑软件打开后缀为.rst的文件编辑即可，推荐\ `Notepad++`_\，如果对.txt、.doc和.rtf格式之间的区别不太了解的话，请不要选择Word或者写字板等软件。
+
+6. 编辑好之后打开cmd [+]_ ，利用cd把当前文件夹改到手册存放路径，输入make html。如果没有错误提示，在文件夹下_build中就能找到新编辑好的软件。需要注意的是本地编辑使用默认python文档的模版，与网页版是不同的。
+
+7. 如果觉得编辑的好，可以在
+
+.. _academic: https://store.enthought.com/#canopy-academic	
+.. _页面: https://github.com/haolan/PamphletPhotonics
+.. _客户端: https://windows.github.com/
+.. _notepad++: http://notepad-plus-plus.org/
+.. [+] Win7在开始菜单键入cmd，如果是win8按control + Q输入cmd
