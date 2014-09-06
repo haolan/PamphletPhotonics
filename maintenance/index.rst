@@ -36,10 +36,13 @@
 
 6. 编辑好之后打开cmd [+]_ ，利用cd把当前文件夹改到手册存放路径，输入make html。如果没有错误提示，在文件夹下_build中就能找到新编辑好的软件。需要注意的是本地编辑使用默认python文档的模版，与网页版是不同的。
 
-7. 如果觉得编辑的好，可以在
+7. 如果觉得编辑的好，可以参考\ github帮助_\发出邀请把修改的内容添加进手册中。
 
 .. _academic: https://store.enthought.com/#canopy-academic	
 .. _页面: https://github.com/haolan/PamphletPhotonics
 .. _客户端: https://windows.github.com/
 .. _notepad++: http://notepad-plus-plus.org/
+.. _github帮助: https://help.github.com/articles/using-pull-requests
+
+
 .. [+] Win7在开始菜单键入cmd，如果是win8按control + Q输入cmd
