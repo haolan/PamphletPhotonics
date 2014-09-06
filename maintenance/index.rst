@@ -5,8 +5,8 @@
 光电手册是一个开放项目并遵守Creative Common 4.0的BY-SA协议。BY表明使用者在复制、发行、展览、表演、放映、广播或通过信息网络传播本作品的时候必须按照作者或者许可人指定的方式对作品进行署名。本手册的署名方式为给出github或者readthedocs的链接。SA表明如果使用者对手册进行了修改需要根据相同的协议发布。
 
 .. image:: ccbysa.png
-    :width: 88px
 	:align: center
+    :width: 88px
 	
 技术层面上，手册编写基于\ reStructuredText_\语言，HTML页面则由\ Sphinx_\产生。手册的原始内容寄放于\ GitHub_\而生成的HTML寄放在\ `Read the Docs`_\。
 
@@ -24,7 +24,7 @@
 
 3. 下载github的\ 客户端_\，登入之后在界面左上角的加号点开，在clone分栏下找到PamphletPhotonics，会弹出一个窗口让你选择存放的路径。
 
-.. image:: ccbysa.png
+.. image:: gui.png
     :width: 500px
 
 4. 打开路径之后应该看到类似的一个文件夹，需要注意的是index.rst和conf.py两个文件，分别对应手册的主页和主要配置文件，如果对sphinx不太懂的话可以暂时只关注前者。文件夹中以下划线开头的可以暂时忽略，剩下的文件夹分别对应每一章的内容。
