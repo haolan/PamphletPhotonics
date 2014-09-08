@@ -5,7 +5,7 @@
 .. sidebar:: Creative Commons!
    
 	.. image:: ccbysa.png
-		:width: 88px
+		:width: 200px
 
 .. topic:: 使用声明
 
