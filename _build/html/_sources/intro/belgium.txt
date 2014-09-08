@@ -1,9 +1,9 @@
+比利时
+---------------------------
+
 :Author: Haolan Zhao
 :status: Finished
 :revision: First Revision 9/5/2014
-
-比利时
----------------------------
 
 地理
 ~~~~~~~
@@ -19,5 +19,5 @@
 
 值得高兴的是，虽然荷兰语是官方语言，在荷语区的人英语水平普遍比较高，日常对话基本没有障碍，所以来比之前并不需要掌握荷兰语。当然，学点当地语言对融入当地生活是很有好处的。
 
-.. _历史原因: http://en.wikipedia.org/wiki/History_of_Belgium/
+.. _历史原因: http://en.wikipedia.org/wiki/History_of_Belgium
 .. _起源: http://en.wikipedia.org/wiki/Dutch_language#Diachronic

@@ -1,6 +1,11 @@
 
 学校注册
 ----------------
+
+:Author: Haolan Zhao
+:status: Finished
+:revision: First Revision 9/5/2014
+
 报了平安并把行李扔到住处之后，首先要做的是去学校办理注册手续。
 
 不管是硕士还是博士，第一站应该都是到光电实验室找秘书帮忙。光电实验室位于\ Technicum_\，Blok2的一楼。从Sint-Pietersnieuwstraat经过经过一片单车的停车场进门即可。注册的办理对于硕士来说几乎全部都是在\ `University Forum`_\（UFO），也就是Technicum旁边的大型玻璃建筑。而对博士来说，还有相当部分的手续是要在Directie Personeel en Organisatie（DPO）办理，DPO位于UFO北边一点的\ Rectoraat_\中一楼。

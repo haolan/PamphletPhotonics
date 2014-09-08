@@ -1,6 +1,11 @@
 
 比利时居留
 -----------------
+
+:Author: Haolan Zhao
+:status: Finished
+:revision: First Revision 9/5/2014
+
 在介绍如何办理居留之前，不妨先介绍一下什么是从短期居留（Temporary Residence Permit）到长期居留（Long-term Residence Permit）最后到公民（Citizenship）的整个过程。因为这个环节不可避免的要与当地人打交道，大部分名词的英文也会一并附上。
 
 1. 当你抵达比利时之后，在学校办理完注册之后会收到一张注册证明（Certificate of Enrollment）后。可以在当地市政厅（Municipality）注册，表明你已经抵达比利时了。以在根特为例，可以在下面这个页面右边栏找到下载表格studentingent.be > choose English > requirements > your arrival in Ghent > registration at the city of Ghent > Arrival Form，填写好之后寄给市政厅即可。之后数周内会受到一封信表示市政厅已经收到你的申请了并给你一个有效期为45天的极短的居住文件。

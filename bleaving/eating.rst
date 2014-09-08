@@ -96,7 +96,6 @@ Vol-au-vent
 
 .. [#] 虽然坊间一直批评比利时巧克力水平下降，因为代表世界巧克力最高水平的世界巧克力大师赛比利时仅在2005年获得优胜 
 
-
 中餐
 ~~~~~~~~~~~~~~~~~~~~
 比利时总体而言中国人并不多，相应的中餐也并不是十分发达。虽然根特有数家中餐馆，可是因为主要针对客户都是当地人，口味相距甚远。一般来说为了品尝到合乎心意的中餐，留学生都是自己做或者到临近城市去吃。
@@ -108,11 +107,16 @@ Vol-au-vent
 - \ 安特唐人街_\
 - 里尔中超街，包括\ 黎明_\，\ 振南_\，\ 美香_\
 
-.. _根特中超: https://www.google.be/maps/dir//51.0396801,3.71649/@51.0396088,3.7165773,19z/data=!4m3!4m2!1m0!1m0?hl=en
-.. _布鲁塞尔中超:https://www.google.com/maps/place/Rue+de+la+Vierge+Noire+2,+1000+Bruxelles,+Belgium/@50.8496696,4.3488302,19z/data=!4m2!3m1!1s0x47c3c387a441f04d:0x55c1a74a3ceaa9b3
-.. _安特唐人街:https://www.google.com/maps/dir//51.2196102,4.4210963/@51.218831,4.4209349,17z/data=!4m3!4m2!1m0!1m0
-.. _黎明:https://www.google.com/maps/place/Le+Minh/@50.6214108,3.0516065,18z/data=!4m2!3m1!1s0x47c2d59e4e9d14e7:0xc637f2eb3d896ed6
-.. _振南:https://www.google.com/maps/place/13+Rue+Jules+Guesde,+59000+Lille,+France/@50.6246228,3.0497861,18z/data=!4m2!3m1!1s0x47c2d59df590e273:0x8732e1013e2cd2fe
+.. _根特中超:  https://www.google.be/maps/dir//51.0396801,3.71649/@51.0396088,3.7165773,19z/data=!4m3!4m2!1m0!1m0?hl=en
+
+.. _布鲁塞尔中超: https://www.google.com/maps/place/Rue+de+la+Vierge+Noire+2,+1000+Bruxelles,+Belgium/@50.8496696,4.3488302,19z/data=!4m2!3m1!1s0x47c3c387a441f04d:0x55c1a74a3ceaa9b3
+
+.. _安特唐人街: https://www.google.com/maps/dir//51.2196102,4.4210963/@51.218831,4.4209349,17z/data=!4m3!4m2!1m0!1m0
+
+.. _黎明: https://www.google.com/maps/place/Le+Minh/@50.6214108,3.0516065,18z/data=!4m2!3m1!1s0x47c2d59e4e9d14e7:0xc637f2eb3d896ed6
+
+.. _振南: https://www.google.com/maps/place/13+Rue+Jules+Guesde,+59000+Lille,+France/@50.6246228,3.0497861,18z/data=!4m2!3m1!1s0x47c2d59df590e273:0x8732e1013e2cd2fe
+
 .. _美香: https://www.google.com/maps/place/18+Rue+Jules+Guesde,+59000+Lille,+France/@50.6247224,3.0498967,18z/data=!3m1!4b1!4m2!3m1!1s0x47c2d59df590e273:0x48d9a8609503e2c6
 
 对于在比利时境内寻找中餐美食，因为笔者知之不详因为从略，详细信息尚请多多请教。
