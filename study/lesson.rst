@@ -1,7 +1,7 @@
 课程介绍
 -----------
 
-:Author: Kefang Yuan, Xiaoning Jia, Yuting Shi, Haolan Zhao
+:Author: Kefang Yuan, Song Bai, Xiaoning Jia, Yuting Shi, Haolan Zhao
 :revision: Second Revision 9/9/2014
 
 光电硕士课程由根特大学（UGent）和荷语布鲁塞尔自由大学（VUB）合办，分为两个学年四个学期。第一个学期课程全部安排在根特，主要为光学、材料和数学等基础理论知识。第二个学期主要安排在布鲁塞尔自由大学，更多关注在电学，电路和实验。第二学年必修课则变得很少，主要根据不同的选修课而在根特或者布鲁塞尔上课。
