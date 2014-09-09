@@ -1,7 +1,7 @@
 课程介绍
 -----------
 
-:Author: Kefang Yuan, Haolan Zhao
+:Author: Kefang Yuan, Xiaoning Jia, Yuting Shi, Haolan Zhao
 :revision: Second Revision 9/9/2014
 
 光电硕士课程由根特大学（UGent）和荷语布鲁塞尔自由大学（VUB）合办，分为两个学年四个学期。第一个学期课程全部安排在根特，主要为光学、材料和数学等基础理论知识。第二个学期主要安排在布鲁塞尔自由大学，更多关注在电学，电路和实验。第二学年必修课则变得很少，主要根据不同的选修课而在根特或者布鲁塞尔上课。
@@ -73,11 +73,26 @@
 
 .. admonition:: Introduction to Quantum Physics for Electrical Engineering(4, VUB)
 
-	本课对量子力学最基本的概念进行了阐述，并介绍了与光学相关的概念，project更加强了对课堂中基础知识的理解。本科物理的同学学起来相对轻松一些，学电路的同学如果有兴趣可以学习，课程总体来说比较简单基础，不过最好提前看看量子力学的内容。考前的推导找物理专业的同学讲解一下会更容易理解和记忆。考试形式为Project（50%）+闭卷考试(50%)
+	选修。本课对量子力学最基本的概念进行了阐述，并介绍了与光学相关的概念，project更加强了对课堂中基础知识的理解。本科物理的同学学起来相对轻松一些，学电路的同学如果有兴趣可以学习，课程总体来说比较简单基础，不过最好提前看看量子力学的内容。考前的推导找物理专业的同学讲解一下会更容易理解和记忆。考试形式为Project（50%）+闭卷考试(50%)
 	
 .. admonition:: Optical Design with Ray-tracing Software: Laboratory(4, VUB)
 
 	选修。这门课每次课都要求完成一个project，以加深对Ray Tracing软件编程的理解，整个课程中会用软件追踪不同类型的光源照射在各种光学器件上的情况。平时认真看课件仔细完成程序即可。考试形式为Project+开卷考试
 
+.. admonition:: Optical Sensor(4, VUB)
+	
+	选修。本课建立在Photonics 和 Microphotonics 课程的基础上，讲解在测量距离、速度、温度等方面 optical 的典型应用。考试前老师会给出大致考试范围，exam 包括一个main question (数学推导和理解要求较高)和一个second question (考察某种optical sensor的工作原理和性能)。理解各种sensor的工作原理和数学模型很有必要。考试形式为oral exam (75%)+practical class(25%).其中practical class 包括两次实验和一张Poster制作。
+
+
+
+.. admonition:: Quantum Optics(4, VUB)
+
+	选修。本课内容主要包括光的量子统计规律，电磁场的量子化，光学相干性质，光与物质相互作用（强作用和弱作用），单光子光源等几个方面。理论性很强，需要有比较好的量子力学和统计学做基础。建议打好量子力学和统计的基础，习题课前完成本章习题。考试形式为自己从学过的9章内容选一张章做presentation，并且老师会提问本章内容（50%）+关于其他章节或习题的2个问题（50%)
+
+
+.. admonition:: Design of diffractive and refractive optics(4, VUB)
+
+	选修。本课主要内容是photonics里几何光学部分的延伸，包括成像系统、近轴光学、和各种像差，再加上衍射部分，课上会学习用ZEMAX软件设计镜头，这门课比较简单，如果Photonics学得好这个课会很轻松。考试形式为笔试+口试（ZEMAX的应用不在考试范围内）
+	
 		
 		

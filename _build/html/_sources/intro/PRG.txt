@@ -2,7 +2,7 @@
 ----------------
 .. bibliographic fields:
 
-:Author: Ruijun Wang
+:Author: Ruijun Wang, Haolan Zhao
 :status: Finished
 :revision: First Revision 9/5/2014
 
