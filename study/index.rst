@@ -11,3 +11,4 @@
    lesson
    internship
    language
+   python
