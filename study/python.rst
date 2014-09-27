@@ -34,11 +34,9 @@ IDE
 ````````````````````
 推荐大家通过Enthought Canopy安装。
 
-首先进入Canopy官网，在右上角点击Sign up注册账号，推荐注册的时候选用UGent邮箱。注册成功之后在依次点击Product -> Get Canopy -> For Academics -> Request your license。通过验证之后就可以下载了。安装过程中会有各类窗口弹出，建议对Python不太熟悉的人直接选择默认值。
+首先进入Canopy官网，在右上角点击Sign up注册账号，推荐注册的时候选用UGent邮箱。注册成功之后在依次点击Product -> Get Canopy -> For Academics -> Request your license。通过验证之后就可以下载了。安装过程中会询问各类设定，建议对初学者直接点确定选择默认值。
 
-提示安装成功之后打开Canopy进入Package Manager即可安装相关的模块和库，包括本文的写作工具Sphinx。
-
-为了检验一下安装是否成功，首先打开cmd
+安装成功之后可以检验一下结果，首先打开cmd
 
 .. image:: cmd.png
 
@@ -50,10 +48,24 @@ IDE
 		import scipy
 		import matplotlib
 
-如果看到以Enthought开头的一串提示符且输入上面三行命令的时候没有报错。则可以认为Enthought Canopy已经安装成功了
+如果看到以Enthought开头的一串提示符且输入上面三行命令的时候没有报错。则已经安装成功了。
 
 .. image:: canopy.png
 
+此窗口也即是本节前面提到的python的解释器。除了最常见的python这个解释器之外，在cmd输入ipython会启用用户界面更加友好的ipython。
+
+除了交互式界面之外，在cmd下执行python filename也是可以的。可以下载 :download:`例程 <trial.py>` 到桌面。之后重新打开一个新的cmd，输入cd Desktop之后再输入python trial.py。如无意外则会弹出一个显示正弦函数图像的窗口。作为参考，下面给出此程序
+
+.. code-block:: python
+
+	import numpy as np	#导入Numpy库，负责数值处理
+	import matplotlib.pyplot as plt	#导入pyplot模块，负责绘图
+
+	x = np.linspace(0,10,100)
+	y = np.sin(x)
+
+	plt.plot(x,y,'-o')
+	plt.show()
 
 常见问题
 ``````````````````````
