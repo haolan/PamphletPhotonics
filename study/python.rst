@@ -52,9 +52,9 @@ IDE
 
 .. image:: canopy.png
 
-此窗口也即是本节前面提到的python的解释器。除了最常见的python这个解释器之外，在cmd输入ipython会启用用户界面更加友好的ipython。
+此窗口也即是本节前面提到的python的解释器。除了最常见的python这个解释器之外，在cmd输入ipython会启用更加友好交互界面。
 
-除了交互式界面之外，在cmd下执行python filename也是可以的。可以下载 :download:`例程 <trial.py>` 到桌面。之后重新打开一个新的cmd，输入cd Desktop之后再输入python trial.py。如无意外则会弹出一个显示正弦函数图像的窗口。作为参考，下面给出此程序
+除了交互式界面一条一条输入命令之外之外，在cmd下执行python filename也可以执行python程序。可以下载 :download:`例程 <trial.py>` 作尝试。在此文件目录下执行 [#]_ python trial.py则会弹出一个显示正弦函数图像的窗口。作为参考，下面给出此程序
 
 .. code-block:: python
 
@@ -67,5 +67,7 @@ IDE
 	plt.plot(x,y,'-o')
 	plt.show()
 
+.. [#] cmd闪烁的光标前显示的就是当前工作目录。当前工作目录必须要和下载的trial.py文件所在文件夹相同才能执行成功
+	
 常见问题
 ``````````````````````
