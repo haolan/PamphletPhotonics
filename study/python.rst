@@ -39,6 +39,7 @@ IDE
 提示安装成功之后打开Canopy进入Package Manager即可安装相关的模块和库，包括本文的写作工具Sphinx。
 
 为了检验一下安装是否成功，首先打开cmd
+
 .. image:: cmd.png
 
 然后输入python，此后按照图示输入
@@ -50,6 +51,7 @@ IDE
 		import matplotlib
 
 如果看到以Enthought开头的一串提示符且输入上面三行命令的时候没有报错。则可以认为Enthought Canopy已经安装成功了
+
 .. image:: canopy.png
 
 
