@@ -40,6 +40,7 @@ Enthought Canopy
 安装成功之后可以检验一下结果，首先打开cmd
 
 .. image:: cmd.png
+	:align: center
 
 然后输入python，此后按照图示输入
 
@@ -52,10 +53,16 @@ Enthought Canopy
 如果看到以Enthought开头的一串提示符且输入上面三行命令的时候没有报错。则已经安装成功了。
 
 .. image:: canopy.png
+	:align: center
 
 此窗口也即是本节前面提到的python的解释器。除了最常见的python这个解释器之外，在cmd输入ipython会启用更加友好交互界面。
 
-除了交互式界面一条一条输入命令之外之外，在cmd下执行python filename也可以执行python程序。可以下载 :download:`例程 <trial.py>` 作尝试。在此文件目录下执行 [#]_ python trial.py则会弹出一个显示正弦函数图像的窗口。作为参考，下面给出此程序
+除了交互式界面之外，在cmd下执行python + filename也是可以的。可以下载该 :download:`例程 <trial.py>` 作尝试。在cmd其文件目录下执行 [#]_ python trial.py则会弹出一个正弦图像。
+
+.. image:: example.png
+	:align: center
+
+作为参考，下面给出此程序
 
 .. code-block:: python
 

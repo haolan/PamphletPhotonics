@@ -1,6 +1,9 @@
 Python入门
 ---------------------
 
+:Author: Haolan Zhao
+:Status: Incomplete
+
 在前章稍微介绍了一下Python的相关知识，为了使读者在组里尽快上手，这里稍微介绍一下Python的安装方式和一些常见的问题。
 
 简介
@@ -11,12 +14,7 @@ Python
 	Python除了指代一门编程语言之外，也常指Python解释器本身。Python解释器是一个可交互式的界面，即时输入Python指令即时看见结果
 
 Module
-	Python的模块可以理解为实现编译好的一系列函数。比如Python本身的解释器并不提供圆周率，而Numpy模块提供了此包，如果在解释器中输入下面的指令就可以调用出圆周率
-	
-	.. code-block:: python
-	
-		import numpy
-		print numpy.pi
+	Python的模块可以理解为实现编译好的一系列函数
 
 Library
 	一般来说，Python模块的合集称为Library。比如Matplotlib就是一个著名的用于绘图的库。Library和Module之前的界限并不总是很清晰的，所以在这两个词有时候也被不加区分地使用
@@ -26,19 +24,23 @@ Library
 	
 IDE
 	集成化开发环境（Integrated Development Environment）一般集成大量编程所需功能于一身，提供诸如源代码编辑，自动编译和代码调试等功能，为编程提供便利。Python自带名为IDLE（Integrated DeveLopment Environment）的IDE，在初学的时候可以一用。而我们组主要使用的为商业软件\ WingIDE_\。博士生以及在PRG做毕设的硕士生可以找\ `Wim Bogaerts`_\要注册码。
+	
+Enthought Canopy
+	Enthought Canopy（EC）软件提供一个较完备的Python分析平台。除了提供一键式Python安装之外，它配备了一个模块管理软件，使得用户可以很容易地添加和删除模块；它同时还提供源代码编辑器，数据可视化软件等。可能上面这些概念比较抽象，具体来说如果不通过EC，除了标准库的二十几个库之外，所有的库都要到其官方上下载并自行安装，工作量很大而且有一定可能性出错。EC使得大量python模块的安装变得十分简单。
 
 .. _WingIDE: https://wingware.com/
 .. _Wim Bogaerts: Wim.Bogaerts@intec.UGent.be
 
 安装
 ````````````````````
-推荐大家通过Enthought Canopy安装。
+下面将主要介绍EC的安装。
 
 首先进入Canopy官网，在右上角点击Sign up注册账号，推荐注册的时候选用UGent邮箱。注册成功之后在依次点击Product -> Get Canopy -> For Academics -> Request your license。通过验证之后就可以下载了。安装过程中会询问各类设定，建议对初学者直接点确定选择默认值。
 
 安装成功之后可以检验一下结果，首先打开cmd
 
 .. image:: cmd.png
+	:align: center
 
 然后输入python，此后按照图示输入
 
@@ -51,10 +53,16 @@ IDE
 如果看到以Enthought开头的一串提示符且输入上面三行命令的时候没有报错。则已经安装成功了。
 
 .. image:: canopy.png
+	:align: center
 
 此窗口也即是本节前面提到的python的解释器。除了最常见的python这个解释器之外，在cmd输入ipython会启用更加友好交互界面。
 
-除了交互式界面一条一条输入命令之外之外，在cmd下执行python filename也可以执行python程序。可以下载 :download:`例程 <trial.py>` 作尝试。在此文件目录下执行 [#]_ python trial.py则会弹出一个显示正弦函数图像的窗口。作为参考，下面给出此程序
+除了交互式界面之外，在cmd下执行python + filename也是可以的。可以下载该 :download:`例程 <trial.py>` 作尝试。在cmd其文件目录下执行 [#]_ python trial.py则会弹出一个正弦图像。
+
+.. image:: example.png
+	:align: center
+
+作为参考，下面给出此程序
 
 .. code-block:: python
 
