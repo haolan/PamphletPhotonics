@@ -12,6 +12,7 @@ Python
 
 Module
 	Python的模块可以理解为实现编译好的一系列函数。比如Python本身的解释器并不提供圆周率，而Numpy模块提供了此包，如果在解释器中输入下面的指令就可以调用出圆周率
+	
 	.. code-block:: python
 	
 		import numpy
@@ -33,6 +34,9 @@ IDE
 ````````````````````
 推荐大家通过Enthought Canopy安装。
 
-首先进入Canopy官网，在右上角点击Sign up注册账号，推荐注册的时候选用UGent邮箱。
+首先进入Canopy官网，在右上角点击Sign up注册账号，推荐注册的时候选用UGent邮箱。注册成功之后在依次点击Product -> Get Canopy -> For Academics -> Request your license。通过验证之后就可以下载了。安装过程中会有各类窗口弹出，建议对Python不太熟悉的人直接选择默认值。
 
-注册成功之后在依次点击Product -> Get Canopy -> For Academics -> Request your license。通过验证之后就可以下载了。安装过程中会有各类窗口弹出，建议对Python不太熟悉的人直接选择默认值。
+安装成功之后打开Canopy进入Package Manager即可安装相关的模块和库，包括本文的写作工具Sphinx。
+
+常见问题
+``````````````````````
