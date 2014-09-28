@@ -11,21 +11,23 @@ Python入门
 在介绍如何安装Python之前，这里对Python涉及的一些概念做一个最简单的介绍。
 
 Python
+
 	Python除了指代一门编程语言之外，也常指Python解释器本身。Python解释器是一个可交互式的界面，即时输入Python指令即时看见结果
 
-Module
-	Python的模块可以理解为实现编译好的一系列函数
+Module & Library
 
-Library
-	一般来说，Python模块的合集称为Library。比如Matplotlib就是一个著名的用于绘图的库。Library和Module之前的界限并不总是很清晰的，所以在这两个词有时候也被不加区分地使用
+	Python的模块可以理解为实现编译好的一系列函数而模块的合集称为库Library。比如Matplotlib就是一个著名的用于绘图的库。Library和Module之前的界限并不总是很清晰，所以在这两个词有时候被不加区分地使用
 	
 环境变量(Environment variables)
-	环境变量指Python运行中系统的相关设定，比较主要PYTHONPATH，这个环境变量指定了Python运行的时候默认搜索的模块。也就是说如果一个模块没有被安装到此文件夹下，默认情况下Python是无法调用的
+
+	环境变量指Python运行中系统的相关设定，比较主要PYTHONPATH指定了Python运行的时候默认搜索的模块。换言之如果一个模块没有被安装到此文件夹下，默认情况下Python是无法调用的
 	
 IDE
+
 	集成化开发环境（Integrated Development Environment）一般集成大量编程所需功能于一身，提供诸如源代码编辑，自动编译和代码调试等功能，为编程提供便利。Python自带名为IDLE（Integrated DeveLopment Environment）的IDE，在初学的时候可以一用。而我们组主要使用的为商业软件\ WingIDE_\。博士生以及在PRG做毕设的硕士生可以找\ `Wim Bogaerts`_\要注册码。
 	
 Enthought Canopy
+
 	Enthought Canopy（EC）软件提供一个较完备的Python分析平台。除了提供一键式Python安装之外，它配备了一个模块管理软件，使得用户可以很容易地添加和删除模块；它同时还提供源代码编辑器，数据可视化软件等。可能上面这些概念比较抽象，具体来说如果不通过EC，除了标准库的二十几个库之外，所有的库都要到其官方上下载并自行安装，工作量很大而且有一定可能性出错。EC使得大量python模块的安装变得十分简单。
 
 .. _WingIDE: https://wingware.com/
