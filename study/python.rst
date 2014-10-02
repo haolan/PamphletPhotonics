@@ -69,5 +69,12 @@ Python入门
 
 .. [#] cmd闪烁的光标前显示的就是当前工作目录。当前工作目录必须要和下载的trial.py文件所在文件夹相同才能执行成功
 	
-常见问题
+CAMFR相关
+``````````````````````
+CAvity Modelling FRamework（CAMFR）是由Pieter Biensman领导开发出来的一个光学仿真软件。经常用于求平板波导的的本征模，光栅的性质和光子晶体的效果等。因为CAMFR用本征模展开方式求解，计算速度非常快，常用于设计初步阶段对结构进行粗略计算。更多内容可以参考 :download:`camfr教程 <camfr.pdf>` 。
+
+CAMFR是用Python写就的，
+
+
+IPKISS相关
 ``````````````````````
